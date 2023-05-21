@@ -1,0 +1,29 @@
+{
+  "name": "dna-data-storage",
+  "version": "0.0.1",
+  "description": "A simple demonstration of DNA data storage encoding and decoding.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hj91/dna-data-storage.git"
+  },
+  "keywords": [
+    "DNA",
+    "data storage",
+    "encoding",
+    "decoding",
+    "binary",
+    "parity bit",
+    "error detection"
+  ],
+  "author": "Harshad Joshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hj91/dna-data-storage/issues"
+  },
+  "homepage": "https://github.com/hj91/dna-data-storage#readme"
+}
+
